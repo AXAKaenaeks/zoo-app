@@ -9,3 +9,17 @@ Loris Frei, Nick Werginz, Eleni Müller, Luca Reinle
 5. Merge into Master
 6. Update version in package.json (Semver https://semver.org/lang/de/)
 7. run release script 
+
+
+### GitHub Naming
+Wie wird was benannt / beschrieben?
+
+#### Branches:
+Branch Names sollen kurz beschreiben was der neue Change bringt. 
+zB. "change-Readme" abstände werden ersetzt mit bindestrich.
+
+#### Commit Messages:
+Commit message sollen beschreiben, was geändert wurde plus der Link zur story.
+
+#### Kommentare:
+Nur bei verwirrendem Code sollen kurze Kommentare geschrieben werden.
