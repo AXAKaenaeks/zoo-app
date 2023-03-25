@@ -19,7 +19,7 @@ Branch Names sollen kurz beschreiben was der neue Change bringt.
 zB. "change-Readme" abstände werden ersetzt mit bindestrich.
 
 #### Commit Messages:
-Commit message sollen beschreiben, was geändert wurde plus der Link zur story.
+Commit message sollen beschreiben, was geändert wurde. Link oder Name von Story
 
 #### Kommentare:
 Nur bei verwirrendem Code sollen kurze Kommentare geschrieben werden.
