@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/zoo-app/static/js/main.b1fc2a72.js",
+    "static/js/787.60690f35.chunk.js": "/zoo-app/static/js/787.60690f35.chunk.js",
+    "index.html": "/zoo-app/index.html",
+    "main.b1fc2a72.js.map": "/zoo-app/static/js/main.b1fc2a72.js.map",
+    "787.60690f35.chunk.js.map": "/zoo-app/static/js/787.60690f35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b1fc2a72.js"
+  ]
+}
