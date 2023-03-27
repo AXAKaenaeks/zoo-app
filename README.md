@@ -6,10 +6,12 @@ Loris Frei, Nick Werginz, Eleni Müller, Luca Reinle
 2. implement your changes
 3. commit and push
 4. creat Pull-Request (with 1 reviewer)
-5. Merge into Master
-6. Update version in package.json (Semver https://semver.org/lang/de/)
-7. run release script 
+5. Merge into develop
 
+### Release
+1. Update version in develop and push it
+2. Merge develop into Master (dont delete develop!)
+3. run release script in package json (Master branch)
 
 ### GitHub Naming
 Wie wird was benannt / beschrieben?
