@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.js": "/zoo-app/static/js/main.9f36ba38.js",
+    "main.css": "/zoo-app/static/css/main.d7361d81.css",
+    "main.js": "/zoo-app/static/js/main.87509353.js",
     "static/js/787.60690f35.chunk.js": "/zoo-app/static/js/787.60690f35.chunk.js",
     "index.html": "/zoo-app/index.html",
-    "main.9f36ba38.js.map": "/zoo-app/static/js/main.9f36ba38.js.map",
+    "main.d7361d81.css.map": "/zoo-app/static/css/main.d7361d81.css.map",
+    "main.87509353.js.map": "/zoo-app/static/js/main.87509353.js.map",
     "787.60690f35.chunk.js.map": "/zoo-app/static/js/787.60690f35.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.9f36ba38.js"
+    "static/css/main.d7361d81.css",
+    "static/js/main.87509353.js"
   ]
 }
