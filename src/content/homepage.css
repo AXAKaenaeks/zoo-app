@@ -1,0 +1,10 @@
+.header {
+  background-color: blue;
+  color: white;
+  padding: 1px;
+  display: block;
+}
+
+.main {
+  padding: 20px;
+}
