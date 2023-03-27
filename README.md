@@ -9,7 +9,7 @@ Loris Frei, Nick Werginz, Eleni Müller, Luca Reinle
 5. Merge into develop
 
 
-###Release on Docker
+### Release on Docker
 1. If you have an old image from this project on docker pls delete it
 2. run docker-deploy script
 3. Open browser on port 3000
