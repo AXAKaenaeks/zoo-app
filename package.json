@@ -30,9 +30,10 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "release": "npm run predeploy && npm run deploy"
+    "gh-pages-predeploy": "npm run build",
+    "gh-pages-deploy" : "gh-pages -d build",
+    "gh-pages-release": "npm run gh-pages-predeploy && npm run gh-pages-deploy",
+    "docker-deploy": "docker build -t %npm_package_name%:%npm_package_version% . && docker run -d -p 3000:3000 %npm_package_name%:%npm_package_version%"
   },
   "eslintConfig": {
     "extends": [
