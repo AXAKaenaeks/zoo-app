@@ -1,0 +1,35 @@
+.homepage {
+  position: relative;
+  height: 100%;
+
+  .carousel {
+    height: 100%;
+
+    .content {
+      height: 100%;
+      background-size: auto 100%;
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-color: black;
+      border-radius: 0;
+      display: flex;
+      align-items: center;
+
+      .info {
+        margin-left: 10vw;
+        min-width: 20vw;
+        color: white;
+        background-color: transparent;
+        box-shadow: none;
+      }
+    }
+  }
+
+  .zoo-infos {
+    z-index: 999;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 20vw;
+  }
+}
