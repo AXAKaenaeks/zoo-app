@@ -1,27 +1,29 @@
 {
   "files": {
-    "main.css": "/zoo-app/static/css/main.ad20fb58.css",
-    "main.js": "/zoo-app/static/js/main.e4234fad.js",
-    "static/js/787.60690f35.chunk.js": "/zoo-app/static/js/787.60690f35.chunk.js",
-    "static/media/lion.png": "/zoo-app/static/media/lion.2a97c8c2f58bf0f746b0.png",
-    "static/media/logo-transparent.svg": "/zoo-app/static/media/logo-transparent.402214165d2d87cd18dae3dd187794a0.svg",
-    "static/media/roboto-all-400-normal.woff": "/zoo-app/static/media/roboto-all-400-normal.c5d001fa922fa66a147f.woff",
-    "static/media/caesar-dressing-all-400-normal.woff": "/zoo-app/static/media/caesar-dressing-all-400-normal.1477aea2af276974b66f.woff",
-    "static/media/caesar-dressing-latin-400-normal.woff2": "/zoo-app/static/media/caesar-dressing-latin-400-normal.2e20303baf12e28e3447.woff2",
-    "static/media/roboto-latin-400-normal.woff2": "/zoo-app/static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
-    "static/media/roboto-cyrillic-ext-400-normal.woff2": "/zoo-app/static/media/roboto-cyrillic-ext-400-normal.804378952da8a10faae2.woff2",
-    "static/media/roboto-latin-ext-400-normal.woff2": "/zoo-app/static/media/roboto-latin-ext-400-normal.861b791f9de857a6e7bc.woff2",
-    "static/media/roboto-cyrillic-400-normal.woff2": "/zoo-app/static/media/roboto-cyrillic-400-normal.71a33b6b50457b2c903a.woff2",
-    "static/media/roboto-greek-400-normal.woff2": "/zoo-app/static/media/roboto-greek-400-normal.c35e4c3958e209d17b31.woff2",
-    "static/media/roboto-vietnamese-400-normal.woff2": "/zoo-app/static/media/roboto-vietnamese-400-normal.3230f9b040f3c630e0c3.woff2",
-    "static/media/roboto-greek-ext-400-normal.woff2": "/zoo-app/static/media/roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2",
-    "index.html": "/zoo-app/index.html",
-    "main.ad20fb58.css.map": "/zoo-app/static/css/main.ad20fb58.css.map",
-    "main.e4234fad.js.map": "/zoo-app/static/js/main.e4234fad.js.map",
-    "787.60690f35.chunk.js.map": "/zoo-app/static/js/787.60690f35.chunk.js.map"
+    "main.css": "/static/css/main.eea18a72.css",
+    "main.js": "/static/js/main.24b5d31f.js",
+    "static/js/787.60690f35.chunk.js": "/static/js/787.60690f35.chunk.js",
+    "static/media/lion.png": "/static/media/lion.2a97c8c2f58bf0f746b0.png",
+    "static/media/giraffe.png": "/static/media/giraffe.081ccd43fd1700145ed3.png",
+    "static/media/monkey.png": "/static/media/monkey.58db97a1c5f129abed03.png",
+    "static/media/logo-transparent.svg": "/static/media/logo-transparent.402214165d2d87cd18dae3dd187794a0.svg",
+    "static/media/roboto-all-400-normal.woff": "/static/media/roboto-all-400-normal.c5d001fa922fa66a147f.woff",
+    "static/media/caesar-dressing-all-400-normal.woff": "/static/media/caesar-dressing-all-400-normal.1477aea2af276974b66f.woff",
+    "static/media/caesar-dressing-latin-400-normal.woff2": "/static/media/caesar-dressing-latin-400-normal.2e20303baf12e28e3447.woff2",
+    "static/media/roboto-latin-400-normal.woff2": "/static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
+    "static/media/roboto-cyrillic-ext-400-normal.woff2": "/static/media/roboto-cyrillic-ext-400-normal.804378952da8a10faae2.woff2",
+    "static/media/roboto-latin-ext-400-normal.woff2": "/static/media/roboto-latin-ext-400-normal.861b791f9de857a6e7bc.woff2",
+    "static/media/roboto-cyrillic-400-normal.woff2": "/static/media/roboto-cyrillic-400-normal.71a33b6b50457b2c903a.woff2",
+    "static/media/roboto-greek-400-normal.woff2": "/static/media/roboto-greek-400-normal.c35e4c3958e209d17b31.woff2",
+    "static/media/roboto-vietnamese-400-normal.woff2": "/static/media/roboto-vietnamese-400-normal.3230f9b040f3c630e0c3.woff2",
+    "static/media/roboto-greek-ext-400-normal.woff2": "/static/media/roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2",
+    "index.html": "/index.html",
+    "main.eea18a72.css.map": "/static/css/main.eea18a72.css.map",
+    "main.24b5d31f.js.map": "/static/js/main.24b5d31f.js.map",
+    "787.60690f35.chunk.js.map": "/static/js/787.60690f35.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad20fb58.css",
-    "static/js/main.e4234fad.js"
+    "static/css/main.eea18a72.css",
+    "static/js/main.24b5d31f.js"
   ]
 }
