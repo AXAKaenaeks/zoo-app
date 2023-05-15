@@ -1,13 +1,27 @@
 import './homepage.scss';
 import Carousel from "react-material-ui-carousel";
 import lionImage from '../img/lion.png';
+import giraffeImage from '../img/giraffe.png';
+import monkeyImage from '../img/monkey.png';
 import {Button, Card, CardActions, CardContent, CardHeader, Paper} from "@mui/material";
 
 function Homepage() {
     const news = [
-        {title: 'Titel 1', text: 'Text', image: lionImage},
-        {title: 'Titel 2', text: 'Text', image: lionImage},
-        {title: 'Titel 3', text: 'Text', image: lionImage}
+        {
+            title: 'Löwen Baby geboren',
+            text: 'Am 19.3.2023 ist der kleine Simba auf die Welt gekommen.',
+            image: lionImage
+        },
+        {
+            title: 'Affe entkommen',
+            text: 'Am Donnerstag dieser Woche ist ein Affe aus dem Gehege ausgebrochen. Halten Sie ausschau!',
+            image: monkeyImage
+        },
+        {
+            title: 'Neues Streichelgehege für die Giraffen',
+            text: 'Ab dem 24.4.2023 wird ein neues Streichelgehege für die Giraffen eröffnet. Komm vorbei!',
+            image: giraffeImage
+        }
     ]
 
     return (
@@ -22,11 +36,11 @@ function Homepage() {
                 className="carousel">
                 {news.map(i =>
                     <Paper className="content"
-                           sx={{background: `linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(${i.image})`}}>
-                        <Card className="info">
+                           sx={{background: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(${i.image})`}}>
+                        <div className="info">
                             <CardHeader title={i.title}/>
                             <CardContent>{i.text}</CardContent>
-                        </Card>
+                        </div>
                     </Paper>
                 )}
             </Carousel>

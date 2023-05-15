@@ -1,5 +1,4 @@
 header {
-  flex: 0 1 auto;
   position: relative;
   display: flex;
   background-color: #046484;
@@ -8,10 +7,11 @@ header {
   .logo {
     position: absolute;
     left: 30px;
-    width: 100px;
+    width: 80px;
   }
 
   .zoo-name {
+    margin: 10px 0 0 0;
     font-family: "Caesar Dressing", serif;
   }
 
@@ -21,12 +21,10 @@ header {
 }
 
 main {
-  flex: 1 1 auto;
-  height: 100px;
+  height: 400px;
 }
 
 footer {
-  flex: 0 1 20px;
   background-color: #046484;
   color: white;
   padding: 10px;
