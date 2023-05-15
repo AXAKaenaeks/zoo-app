@@ -1,0 +1,35 @@
+header {
+  position: relative;
+  display: flex;
+  background-color: #046484;
+  color: white;
+
+  .logo {
+    position: absolute;
+    left: 30px;
+    width: 80px;
+  }
+
+  .zoo-name {
+    margin: 10px 0 0 0;
+    font-family: "Caesar Dressing", serif;
+  }
+
+  .MuiTabs-root .MuiTabs-scroller .MuiTabs-indicator {
+    background-color: #7acbff;
+  }
+}
+
+main {
+  height: 400px;
+}
+
+footer {
+  background-color: #046484;
+  color: white;
+  padding: 10px;
+
+  a:not(:last-child) {
+    margin-right: 10px;
+  }
+}
