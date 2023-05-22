@@ -28,7 +28,12 @@ function Animals() {
 
     return (
         <div className="homepage">
-
+            {animals.map(i =>
+                <table>
+                    <th>{i.title}</th>
+                    <td>{i.text}</td>
+                </table>
+            )}
         </div>
     );
 }
